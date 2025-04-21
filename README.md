@@ -40,6 +40,7 @@ A terceira semana adicionou duas novas funcionalidades:
 ### Semana 4 (Atividade Somativa) 📅
 Nesta fase do projeto, a tarefa foi criar um **grafo** que representasse a recomendação de livros. Cada livro é um nó e as relações entre eles (como similaridade ou recomendações) são representadas por arestas. A estrutura `HashMap<Livro, Set<Livro>>` foi utilizada para modelar essas relações.
 
-## Enunciados
+---
 
-Dentro da pasta **Enunciados**, estão os enunciados detalhados de cada uma das atividades que compõem este projeto (semana 2, semana 3 e a atividade somativa 1).
+## Enunciados
+Dentro da pasta **Enunciados**, estão os enunciados detalhados de cada uma das atividades que compõem este projeto.
