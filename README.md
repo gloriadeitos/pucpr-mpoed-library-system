@@ -42,5 +42,5 @@ Nesta fase do projeto, a tarefa foi criar um **grafo** que representasse a recom
 
 ---
 
-## Enunciados
+## 📄 Enunciados
 Dentro da pasta **Enunciados**, estão os enunciados detalhados de cada uma das atividades que compõem este projeto.
