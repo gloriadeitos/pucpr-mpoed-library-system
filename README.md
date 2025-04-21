@@ -8,6 +8,10 @@
   <img src="https://github.com/gloriadeitos/gloriadeitos/blob/main/img/gloriadeitos-logo.png" alt="gloriadeitos-logo" height="100">
 </p>
 
+**Disciplina:** Métodos de Pesquisa e Ordenação em Estruturas de Dados <br>
+**Curso:** Análise e Desenvolvimento de Sistemas <br>
+**Instituição:** Pontifícia Universidade Católica do Paraná (PUC-PR) - Brasil  
+
 ## Sistema de Biblioteca Virtual com Recomendação de Livros 📚✨
 
 Este projeto consiste no desenvolvimento de um sistema de biblioteca virtual em Java, utilizando várias estruturas de dados como `LinkedList`, `Queue`, `Stack` e `HashMap` para gerenciar livros, recomendações e histórico de navegação de usuários.
