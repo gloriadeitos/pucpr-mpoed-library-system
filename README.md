@@ -10,7 +10,7 @@
 
 **Disciplina:** Métodos de Pesquisa e Ordenação em Estruturas de Dados <br>
 **Curso:** Análise e Desenvolvimento de Sistemas <br>
-**Instituição:** Pontifícia Universidade Católica do Paraná (PUC-PR) - Brasil  
+**Instituição:** Pontifícia Universidade Católica do Paraná (PUCPR) - Brasil  
 
 ## Sistema de Biblioteca Virtual com Recomendação de Livros 📚✨
 
